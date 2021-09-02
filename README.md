@@ -16,3 +16,5 @@ MA (q): it shows the noise between time points.
 SARIMA is stand for seasonal ARIMA.
 
 SARIMA (Seasonal ARIMA) is basically an extended version of ARIMA model that gives the seasonal element of the time series. While, SARIMA supports data with both trend and seasonality. Besides the three order parameters of autoregression, difference, and moving average, but in SARIMA this considers the fourth parameters as seasonal periods. 
+
+Fianally we get Mean Squared Error and Root Mean Squared Error of our forecasts.
